@@ -3,6 +3,13 @@ h1, h2 {
   width: 100%;
   margin-top: 50px;
 }
+body {
+  background-color: #d5d5d5;
+}
+* {
+  font-family: "Baskerville", serif;
+  letter-spacing: 2px;
+}
 .jeopardy-grid {
   border-collapse: collapse;
   margin: 50px auto;
@@ -79,6 +86,10 @@ h1, h2 {
   color: #ffffff;
   border: none;
   cursor: pointer;
+  border: 1px solid black;
+}
+.next-round-button:hover {
+  background-color: #74c676;
 }
 
 .previous-round-button {
@@ -91,6 +102,10 @@ h1, h2 {
   color: #ffffff;
   border: none;
   cursor: pointer;
+  border: 1px solid black;
+}
+.previous-round-button:hover {
+  background-color: #74c676;
 }
 
 .button-text {

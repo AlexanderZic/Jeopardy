@@ -3,6 +3,14 @@ h1 {
   width: 100%;
   margin-top: 50px;
 }
+body {
+  background-color: #d5d5d5;
+}
+* {
+  font-family: "Baskerville", serif;
+  letter-spacing: 2px;
+}
+
 .jeopardy-logo {
   display: flex;
   margin-top: 50px;
@@ -16,8 +24,9 @@ h1 {
   margin-bottom: 500px;
   font-size: 24px;
   padding: 12px 69px; 
-  background-color: #0c00ed;
+  background-color: #2466f5;
   color: #ffffff;
+  border: 1px solid black;
 }
 .play-button:hover {
   background-color: #060076; 
