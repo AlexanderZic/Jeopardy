@@ -1,0 +1,30 @@
+h1, h2 {
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+}
+.final-category {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  margin-right: 400px;
+  margin-left: 400px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.final_question {
+  text-align: center; 
+  background-color: rgb(174, 197, 251);
+  color: white;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+.bet_amount {
+  text-align: center;
+}
+.final_answer {
+  text-align: center;
+}
